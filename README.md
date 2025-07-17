@@ -73,9 +73,4 @@ This project includes:
 - Save this as `README.md` in your project root.
 - Replace `<your-repo-url>` with your GitHub repo link.
 - Update **project name**, **description**, and **author** if needed.
-
----
-
-If you want, I can make you a **custom README generator template** too — just say *“Yes!”* 🚀
-```
 ````
